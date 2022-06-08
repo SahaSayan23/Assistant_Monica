@@ -2,5 +2,5 @@
 
 This is my personal voice assistant Monica created by me ( Sayan Saha ).
 
-I use Python programming language to built this project.
-Python packages like SpeechRecognition, pyttsx, PyAudio, pywhatkit, python wikipedia, pyjokes are used here.
+I have used Python programming language to build this project.
+Python packages like SpeechRecognition, pyttsx, PyAudio, pywhatkit, python wikipedia, pyjokes have been used here.
